@@ -1,0 +1,16 @@
+# Custom
+# Visual Studio 2017 Configuration File
+root = true
+
+[*]
+insert_final_newline = true
+
+# Code files
+[*.cs]
+indent_style = space
+indent_size = 4
+dotnet_sort_system_directives_first = true
+
+[*.xaml]
+indent_style = space
+indent_size = 4
